@@ -1,0 +1,21 @@
+List Excercise 
+Sum of all elements in lisyt
+Sum of elements > 200
+Find out how many times 200 exist in array.
+FInd out in a List where all elements > than 10, if it is true else print false.
+If any element is > 10, so print true.
+Find out the max element in a list.
+Copy one list into another list
+
+Set Questions
+Create two sets and find intersection btw these two sets
+Find out difference btw these element
+Traverse & print the set.
+Traverse till value>10;
+Traverse after value >50.
+
+Map 
+User login - amit - 10 orders (2)
+Amit _ Address Office (unique & multiple), Res
+Ram 
+Ram Orders
