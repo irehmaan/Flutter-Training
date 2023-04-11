@@ -1,5 +1,3 @@
-import 'dart:io';
-
 void main() {
   int n = 12345;
   int temp = n;

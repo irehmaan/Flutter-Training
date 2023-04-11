@@ -17,5 +17,5 @@ void main() {
   l.sort((int a, int b) => a - b);
   l.forEach((element) => print(element));
 
-  Set<int> set = {12, 23, 12, 24, 25, 20};
+  // Set<int> set = {12, 23, 12, 24, 25, 20};
 }

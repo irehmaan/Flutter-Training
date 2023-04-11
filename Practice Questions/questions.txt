@@ -9,7 +9,7 @@ Copy one list into another list
 
 Set Questions
 Create two sets and find intersection btw these two sets
-Find out difference btw these element
+Find out difference btw these element 
 Traverse & print the set.
 Traverse till value>10;
 Traverse after value >50.

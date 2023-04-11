@@ -1,4 +1,3 @@
-import 'dart:mirrors';
 /*
 Here we have used fold method. It combines all elements of a list
 iteratively to one single value using a function. It takes one
